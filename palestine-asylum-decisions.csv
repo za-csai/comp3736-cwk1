@@ -1,0 +1,60 @@
+Year,"Country of origin","Country of origin (ISO)","Country of asylum","Country of asylum (ISO)",Authority,"Stage of procedure","Cases / Persons","Recognized decisions","Complementary protection","Rejected decisions","Otherwise closed","Total decisions"
+2022,Palestinian,PSE,Algeria,DZA,U,FI,P,0,0,0,42,42
+2022,Palestinian,PSE,Argentina,ARG,G,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Australia,AUS,G,FI,P,10,0,0,0,10
+2022,Palestinian,PSE,Belgium,BEL,G,FI,P,897,23,204,390,1514
+2022,Palestinian,PSE,Belgium,BEL,G,JR,P,16,10,75,145,246
+2022,Palestinian,PSE,Belgium,BEL,G,RA,P,0,0,0,176,176
+2022,Palestinian,PSE,Belarus,BLR,G,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Brazil,BRA,G,FI,P,10,0,0,76,86
+2022,Palestinian,PSE,Canada,CAN,G,AR,P,5,0,16,0,21
+2022,Palestinian,PSE,Canada,CAN,G,FI,P,204,0,15,12,231
+2022,Palestinian,PSE,Canada,CAN,G,JR,P,5,0,0,5,10
+2022,Palestinian,PSE,China,CHN,U,FI,P,0,0,0,10,10
+2022,Palestinian,PSE,Cyprus,CYP,G,FA,P,29,0,16,5,50
+2022,Palestinian,PSE,Cyprus,CYP,G,JR,P,0,0,0,14,14
+2022,Palestinian,PSE,France,FRA,G,AR,P,19,5,39,0,63
+2022,Palestinian,PSE,France,FRA,G,FI,P,122,5,96,0,223
+2022,Palestinian,PSE,"United Kingdom of Great Britain and Northern Ireland",GBR,G,AR,C,10,0,15,0,25
+2022,Palestinian,PSE,"United Kingdom of Great Britain and Northern Ireland",GBR,G,FI,P,112,11,43,5,171
+2022,Palestinian,PSE,Georgia,GEO,G,FI,P,0,0,13,0,13
+2022,Palestinian,PSE,Germany,DEU,G,FI,P,77,53,529,174,833
+2022,Palestinian,PSE,Germany,DEU,G,JR,P,10,58,38,115,221
+2022,Palestinian,PSE,Germany,DEU,G,RA,P,5,0,0,10,15
+2022,Palestinian,PSE,Greece,GRC,G,AR,P,5,0,5,17,27
+2022,Palestinian,PSE,Greece,GRC,G,FI,P,1984,19,10,174,2187
+2022,Palestinian,PSE,Croatia,HRV,G,FI,P,0,0,0,5,5
+2022,Palestinian,PSE,Iceland,ISL,G,AR,P,0,0,0,88,88
+2022,Palestinian,PSE,Iceland,ISL,G,FI,P,0,137,0,78,215
+2022,Palestinian,PSE,Indonesia,IDN,U,FI,P,5,0,0,13,18
+2022,Palestinian,PSE,Ireland,IRL,G,FI,P,23,0,0,0,23
+2022,Palestinian,PSE,Italy,ITA,G,FI,P,56,12,16,0,84
+2022,Palestinian,PSE,Libya,LBY,U,FI,P,0,0,0,937,937
+2022,Palestinian,PSE,"Sri Lanka",LKA,U,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Mauritania,MRT,U,FI,P,0,0,0,20,20
+2022,Palestinian,PSE,Mexico,MEX,G,FI,P,0,0,0,5,5
+2022,Palestinian,PSE,Malaysia,MYS,U,FI,P,12,0,0,0,12
+2022,Palestinian,PSE,Morocco,MAR,U,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Malta,MLT,G,FI,P,0,0,10,12,22
+2022,Palestinian,PSE,"Netherlands (Kingdom of the)",NLD,G,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Nigeria,NGA,G,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Poland,POL,G,FI,P,0,0,0,18,18
+2022,Palestinian,PSE,Romania,ROU,G,FI,P,15,5,10,10,40
+2022,Palestinian,PSE,Romania,ROU,G,JR,P,0,0,5,0,5
+2022,Palestinian,PSE,"Russian Federation",RUS,G,TA,P,5,0,0,0,5
+2022,Palestinian,PSE,"Saudi Arabia",SAU,U,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Spain,ESP,G,FI,P,47,92,134,65,338
+2022,Palestinian,PSE,"Serbia and Kosovo: S/RES/1244 (1999)",SRB,G,FI,P,0,0,0,16,16
+2022,Palestinian,PSE,Slovakia,SVK,G,FI,P,0,0,5,0,5
+2022,Palestinian,PSE,Slovenia,SVN,G,FI,P,0,0,5,5,10
+2022,Palestinian,PSE,Sweden,SWE,G,AR,P,12,0,247,38,297
+2022,Palestinian,PSE,Sweden,SWE,G,FI,P,11,0,92,43,146
+2022,Palestinian,PSE,Sweden,SWE,G,RA,P,0,0,70,17,87
+2022,Palestinian,PSE,Togo,TGO,G,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Tunisia,TUN,U,FI,P,0,0,0,13,13
+2022,Palestinian,PSE,"United Arab Emirates",ARE,U,FI,P,5,0,0,0,5
+2022,Palestinian,PSE,Ukraine,UKR,G,FI,P,0,0,0,17,17
+2022,Palestinian,PSE,Ukraine,UKR,G,JR,P,0,0,0,5,5
+2022,Palestinian,PSE,"United States of America",USA,G,AR,P,0,0,0,11,11
+2022,Palestinian,PSE,"United States of America",USA,G,IN,P,5,0,5,10,20
+2022,Palestinian,PSE,Yemen,YEM,U,FI,P,0,0,0,13,13
